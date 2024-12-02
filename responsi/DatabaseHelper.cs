@@ -3,7 +3,7 @@ using System.Data;
 using Npgsql;
 using responsi;
 
-// Base Class: DatabaseHelper
+
 // Base Class: DatabaseHelper
 public class DatabaseHelper : Interface1
 {
