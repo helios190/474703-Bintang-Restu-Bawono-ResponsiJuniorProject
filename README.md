@@ -34,7 +34,6 @@ Proyek ini merupakan hasil responsi Junior Project dari mata kuliah **Teknik Bas
 - **DatabaseHelper**: Kelas dasar untuk mengelola koneksi dan query ke database.
 - **ReferensiHelper**: Kelas turunan untuk mengelola data referensi (jabatan dan departemen).
 - **KaryawanHelper**: Kelas turunan untuk mengelola data karyawan.
-- **PostgreSQL Functions**: Fungsi untuk operasi CRUD dan pengambilan data referensi.
 
 ## Screenshot
 - Tampilan Aplikasi
