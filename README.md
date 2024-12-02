@@ -1,7 +1,7 @@
 # Responsi Junior Project - Bintang Restu Bawono
 
 ## Deskripsi Proyek
-Proyek ini merupakan hasil responsi Junior Project dari mata kuliah **Teknik Basis Data** dan **Pemrograman Berbasis Objek**. Proyek ini mencakup implementasi konsep **Object-Oriented Programming (OOP)**, seperti enkapsulasi, inheritance, polimorfisme, dan abstraksi, serta penerapan manajemen database dengan operasi **CRUD** menggunakan PostgreSQL.
+Proyek ini merupakan hasil responsi Junior Project DTETI UGM. Proyek ini mencakup implementasi konsep **Object-Oriented Programming (OOP)**, seperti enkapsulasi, inheritance, polimorfisme, dan abstraksi, serta penerapan manajemen database dengan operasi **CRUD** menggunakan PostgreSQL.
 
 ## Fitur Utama
 1. **Konsep OOP**
